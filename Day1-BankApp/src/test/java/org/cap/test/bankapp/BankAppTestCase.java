@@ -72,7 +72,7 @@ public class BankAppTestCase {
 	@Ignore
 	@Test(timeout=3)
 	public void test_myloop(){
-		accountService.myLoop();
+	//	accountService.myLoop();
 	}
 	
 	
